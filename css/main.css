@@ -1,4 +1,10 @@
 #main {
     background-color: whitesmoke;
     width: 80%;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#main h1 {
+    font-size: 2em;
 }
